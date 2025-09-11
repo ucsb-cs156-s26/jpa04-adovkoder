@@ -69,3 +69,4 @@ If you use `ls -a` on this directory, you should the following hidden files:
 
   See [https://ucsb-cs156.github.io/topics/git_gitignore.html](https://ucsb-cs156.github.io/topics/git/git_gitignore.html)
   information.
+* `.java-version` stores the version of Java that should be used for the code in this project.  Some tools look for this file to select the appropriate Java version.
